@@ -1,0 +1,12 @@
+{
+  "name": "acpages",
+  "version": "1.0.0",
+  "description": "deploy local pages",
+  "main": "src/app.js",
+  "scripts": {
+    "run": "node src/app.js"
+  },
+  "keywords": [],
+  "author": "AnsChaser",
+  "license": "MIT"
+}
