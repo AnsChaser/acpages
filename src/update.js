@@ -1,1 +1,1 @@
-require('./app').updatepages()
+require('./app').updatepages();
