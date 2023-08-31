@@ -4,9 +4,13 @@
   "description": "deploy local pages",
   "main": "src/app.js",
   "scripts": {
-    "run": "node src/app.js"
+    "start": "node src/start.js",
+    "update": "node src/update.js"
   },
   "keywords": [],
   "author": "AnsChaser",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
